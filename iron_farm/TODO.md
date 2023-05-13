@@ -20,3 +20,7 @@
 * 1 redstone torch - 1 redstone
 * 1 name tag - recipe
 * 64 dirt/cobblestone
+### some items summary
+* 26 wall + 42 BB = 68 BB ( stone bricks )
+* 35 iron total
+* 
